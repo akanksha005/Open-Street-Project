@@ -1,0 +1,5 @@
+A list of Web sites, books, forums, blog posts, github repositories etc that i referred to or used in this submission :
+* https://discussions.udacity.com/
+*https://postcodes-australia.com/
+*https://mapzen.com/data/metro-extracts/metro/melbourne_australia/
+*https://classroom.udacity.com/nanodegrees/nd002/parts/860b269a-d0b0-4f0c-8f3d-ab08865d43bf
